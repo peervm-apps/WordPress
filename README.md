@@ -1,15 +1,17 @@
 
 [![WordPress](wp-admin/images/wordpress-logo.png)](https://wordpress.org/)
 
-Version 4.2
-
-Semantic Personal Publishing Platform
+# Semantic Personal Publishing Platform (Version 4.2)
 
 # First Things First
 
 Welcome. WordPress is a very special project to me. Every developer and contributor adds something unique to the mix, and together we create something beautiful that I&#8217;m proud to be a part of. Thousands of hours have gone into WordPress, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.
 
 &#8212; Matt Mullenweg
+
+# Try Wordpress instantly
+
+[![Launch on PeerVM](https://s3-us-west-2.amazonaws.com/peervm/peervm_button.png)](http://ghostvm.com/wordpress?ref=admin@peervm.com)
 
 # Installation: Famous 5-minute install
 
