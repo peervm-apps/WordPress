@@ -1,7 +1,7 @@
 
 [![WordPress](wp-admin/images/wordpress-logo.png)](https://wordpress.org/) 
 
-### First Things First
+#### First Things First
 
 Welcome. WordPress is a very special project to me. Every developer and contributor adds something unique to the mix, and together we create something beautiful that I&#8217;m proud to be a part of. Thousands of hours have gone into WordPress, and we&#8217;re dedicated to making it better every day. Thank you for making it part of your world.
 
