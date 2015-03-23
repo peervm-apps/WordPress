@@ -1,7 +1,5 @@
 
-[![WordPress](wp-admin/images/wordpress-logo.png)](https://wordpress.org/)
-
-# Semantic Personal Publishing Platform (Version 4.2)
+[![WordPress](wp-admin/images/wordpress-logo.png)](https://wordpress.org/) - Semantic Personal Publishing Platform (Version 4.2)
 
 # First Things First
 
@@ -9,7 +7,7 @@ Welcome. WordPress is a very special project to me. Every developer and contribu
 
 &#8212; Matt Mullenweg
 
-# Try Wordpress instantly
+# Try Wordpress now
 
 [![Launch on PeerVM](https://s3-us-west-2.amazonaws.com/peervm/peervm_button.png)](http://ghostvm.com/wordpress?ref=admin@peervm.com)
 
