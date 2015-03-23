@@ -1,7 +1,7 @@
-# 
-	[![WordPress](wp-admin/images/wordpress-logo.png)](https://wordpress.org/)
 
- Version 4.2
+[![WordPress](wp-admin/images/wordpress-logo.png)](https://wordpress.org/)
+
+Version 4.2
 
 Semantic Personal Publishing Platform
 
