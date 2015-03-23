@@ -1,5 +1,5 @@
 
-[![WordPress](wp-admin/images/wordpress-logo.png)](https://wordpress.org/) - Semantic Personal Publishing Platform (Version 4.2)
+[![WordPress](wp-admin/images/wordpress-logo.png)](https://wordpress.org/) 
 
 # First Things First
 
