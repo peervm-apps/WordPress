@@ -9,7 +9,7 @@ Welcome. WordPress is a very special project to me. Every developer and contribu
 
 # Try Wordpress now
 
-[![Launch on PeerVM](https://s3-us-west-2.amazonaws.com/peervm/peervm_button.png)](http://ghostvm.com/wordpress?ref=admin@peervm.com)
+[![Launch on PeerVM](https://s3-us-west-2.amazonaws.com/peervm/peervm_button.png)](http://peervm.com/wordpress?ref=admin@peervm.com)
 
 # Installation: Famous 5-minute install
 
